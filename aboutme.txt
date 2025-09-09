@@ -1,0 +1,9 @@
+My name is T. Udayasri 
+I am pursing my degree 3rd year bsc animation in aditya school of animation
+I completed my day 1 class in hackathon learning about :
+      DevOps introduction 
+      DevOps life cycle stages
+      what is meant by git and git hub
+      how to create repository 
+      how to create and upload a file 
+      and how to delete and rename the repository name.
